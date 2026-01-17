@@ -1,4 +1,4 @@
-# Portfolio Frontend - Spiral Animation
+# Portfolio Frontend - Spiral Animations
 
 A Next.js portfolio featuring a stunning 3D spiral animation built with GSAP and React.
 
